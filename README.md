@@ -60,7 +60,7 @@
 
 ## 🏆 Experience & Projects
 
-- Daily Funding Internship (2025.12-2026.02): Frontend development / 프론트엔드 개발 인턴 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+- [Daily Funding Internship (2025.12-2026.02)](https://blog.daily-funding.com/post?post_id=263): Frontend development / 프론트엔드 개발 인턴 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 - [ASCII-THON (2026.01)](https://github.com/ABridge-Hackathon/A-BRIDGE.git): Video chat app for elderly users / 중장년층을 위한 화상 채팅 앱
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
